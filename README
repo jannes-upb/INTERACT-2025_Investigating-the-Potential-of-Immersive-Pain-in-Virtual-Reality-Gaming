@@ -1,19 +1,19 @@
-#Interact 2025 Paper Submission Files
+# Interact 2025 Paper Submission Files
 
-This repository was established to share files associated with our paper submission for **Interact 2025**.
+This repository contains files related to our paper submission for **Interact 2025**.
 
-##Repository Contents
+## Repository Contents
 
-- **Questionnaires**  
-  The repository contains the questionnaires used in our study. These were originally administered to participants through a **web-based interface**. However, converting them to **PDF format** resulted in the loss of their original formatting.
+### Questionnaires
+The repository includes the questionnaires used in our study. These were initially administered via a **web-based interface**. However, due to conversion into **PDF format**, the original formatting has been altered.
 
-- **Results**  
-  The results are available in an **Excel file**, which consists of a single worksheet summarizing the data collected from the administered questionnaires.
+### Results
+The study results are compiled in an **Excel file**, which consists of a single worksheet summarizing the collected data from the administered questionnaires.
 
 ## Important Notes
 
-- **Automatic Translation**  
-  Both the questionnaires and the results were **automatically translated**, so some translation errors may be present.
+### Automatic Translation
+Both the questionnaires and the results have been **automatically translated**, which may have introduced some translation inaccuracies.
 
-- **Anonymity Considerations**  
-  The original files are not included to ensure the anonymity of the country of origin.
+### Anonymity Considerations
+To maintain anonymity and confidentiality, the original files have been excluded to prevent disclosure of the country of origin.
