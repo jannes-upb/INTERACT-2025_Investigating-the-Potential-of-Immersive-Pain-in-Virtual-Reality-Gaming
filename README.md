@@ -1,6 +1,6 @@
 # Interact 2025 Paper Submission Files
 
-This repository contains files related to our paper submission for **Interact 2025**.
+This repository contains files related to our paper submission for **INTERACT 2025**.
 
 ## Repository Contents
 
